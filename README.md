@@ -1,6 +1,6 @@
 [![Test](https://github.com/itigoore01/nextjs-typescript-boilerplate/actions/workflows/test.yml/badge.svg)](https://github.com/itigoore01/nextjs-typescript-boilerplate/actions/workflows/test.yml)
 
-# NextJS Typescript Boilerplate
+# NextJS Typescript Monorepo Boilerplate
 
 Bootstrap a developer-friendly NextJS app configured with:
 
@@ -12,6 +12,7 @@ Bootstrap a developer-friendly NextJS app configured with:
 - [Tailwind CSS](https://tailwindcss.com/)
 - Automated dependency updates with [Renovate](https://www.whitesourcesoftware.com/free-developer-tools/renovate/)
 - Continuous integration with [Github Actions](https://github.co.jp/features/actions)
+- Workspaces with [yarn](https://classic.yarnpkg.com/lang/en/docs/workspaces/)
 
 ## Preview
 
