@@ -5,7 +5,7 @@ class MyDocument extends Document {
     return (
       <Html lang="ja">
         <Head />
-        <body className="text-default bg-default break-words antialiased">
+        <body className="break-words bg-default text-default antialiased">
           <Main />
           <NextScript />
         </body>
