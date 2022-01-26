@@ -22,6 +22,6 @@
   "devDependencies": {
     "husky": "7.0.4",
     "prettier": "2.5.1",
-    "prettier-plugin-tailwind": "2.2.12"
+    "prettier-plugin-tailwindcss": "0.1.4"
   }
 }
